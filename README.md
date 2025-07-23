@@ -11,8 +11,6 @@ This project showcases how to create a clean, professional CV using **LaTeX**—
 ### 1. 🧰 Main Files
 - `resume.tex` – Main LaTeX source file  
 - `resume.pdf` – Final compiled version of the CV  
-- `preamble.tex` – All styling settings and customizations  
-- `sections/` – Modular sections for Education, Experience, Projects, Skills, etc.
 
 ---
 
