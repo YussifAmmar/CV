@@ -1,5 +1,5 @@
 # 📄 Professional CV with LaTeX  
-### ✨ Build your résumé the elegant way  
+### ✨ Build your resume the elegant way  
 
 Welcome to my personal résumé repository!  
 This project showcases how to create a clean, professional CV using **LaTeX**—ideal for developers, researchers, and students who want full control over design and formatting.
